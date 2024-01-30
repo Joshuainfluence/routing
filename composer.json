@@ -1,0 +1,23 @@
+{
+    "name": "hp/public",
+    "description": "Simple Custom PHP Router",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Hp\\Public\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "joshua",
+            "email": "joshuajulius2030@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
